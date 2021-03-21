@@ -1,4 +1,4 @@
-## **Hi Buddies,**!
+## **Hi Buddies**!
 
 ### I'm Gabriel Bruno Almeida!
 
