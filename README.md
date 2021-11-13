@@ -10,7 +10,10 @@ I know a little about many things and a lot about some things.
 
 >My skills are:
 >  * Development in PHP (Laravel and Code Igniter frameworks) and .Net;
+>  * Development in NodeJs
 >  * Knowledgement in Javascript, Docker and another technologies used on my way until here;
 >  * Teamwork with Git repositories;
+>  * Actually learning Ruby
+>  * Interests in learn Python
 
 *This is my first version of the Readme about me, I will try to update it another day, with more creativity !!!*
